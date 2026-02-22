@@ -1,8 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;React+Frontend+Builder;DSA+Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security;React+Frontend+Builder;DSA+Problem+Solver&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -19,10 +18,11 @@
 ## 🚀 About Me
 
 🎓 Final Year Computer Science Engineering Student  
-💻 Focused on building scalable backend systems using Java & Spring Boot  
-⚛️ Experience in building responsive UI using React  
-📍 Bengalore, India  
-🚀 Actively seeking Java Backend / Full Stack Intern opportunities  
+💻 Backend-focused developer building scalable REST APIs using Java & Spring ecosystem  
+🔐 Experienced in implementing authentication & authorization using Spring Security  
+⚛️ Building responsive frontend interfaces with React  
+📍 Bangalore, India  
+🚀 Actively seeking Java Backend / Full Stack Developer opportunities  
 
 ---
 
@@ -32,8 +32,10 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -47,20 +49,22 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🧠 Core Concepts
+### 🧠 Core Competencies
 <p>
-<img src="https://img.shields.io/badge/OOP-Concept-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-Architecture-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multithreading-Basics-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDLC-Understanding-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Layered%20Architecture-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exception%20Handling-black?style=for-the-badge"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Workflow
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -70,23 +74,24 @@
 ## 🚀 Featured Projects
 
 ### 🔥 Helpdesk Management System  
-Spring Boot + Hibernate + MySQL + React  
-- Role-based authentication  
-- REST API integration  
+Spring Boot + Spring Security + Hibernate + MySQL + React  
+- Role-based authentication & authorization  
+- REST API integration with React frontend  
 - Ticket lifecycle management  
-- Layered architecture (Controller → Service → Repository)  
+- Clean layered architecture (Controller → Service → Repository)  
+- Global exception handling  
 
 ### 📚 Book Management System  
 Spring Boot + JPA + MySQL  
-- CRUD operations  
-- Exception handling  
+- Complete CRUD operations  
 - Pagination & sorting  
-- Clean MVC structure  
+- Validation & exception handling  
+- Structured MVC backend  
 
 ### 🧠 DSA in Java  
 - Arrays, Strings, Recursion  
 - Stack, Queue, LinkedList  
-- Trees & Sorting/Searching  
+- Trees & Searching/Sorting  
 - Time & Space Complexity analysis  
 
 ---
@@ -120,19 +125,4 @@ Spring Boot + JPA + MySQL
 
 ---
 
-⚡ "Focused on mastering backend development, writing clean code, and solving real-world problems through technology."
-
-<!--
-**piyushraj04/piyushraj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ "Committed to building secure, scalable, and maintainable backend systems using modern Java technologies."
