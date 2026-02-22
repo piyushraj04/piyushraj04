@@ -9,7 +9,7 @@
   <a href="mailto:piyush004.raj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK-HERE">
+  <a href="https://linkedin.com/in/[YOUR-LINK-HERE](https://www.linkedin.com/in/piyush004-raj/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -21,7 +21,7 @@
 🎓 Final Year Computer Science Engineering Student  
 💻 Focused on building scalable backend systems using Java & Spring Boot  
 ⚛️ Experience in building responsive UI using React  
-📍 Jaipur, India  
+📍 Bengalore, India  
 🚀 Actively seeking Java Backend / Full Stack Intern opportunities  
 
 ---
