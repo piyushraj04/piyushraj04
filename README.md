@@ -116,7 +116,7 @@ Spring Boot + JPA + MySQL
 
 ## 📫 Let's Connect
 📧 piyush004.raj@gmail.com  
-🔗 Add your LinkedIn link  
+🔗 https://www.linkedin.com/in/piyush004-raj/  
 
 ---
 
