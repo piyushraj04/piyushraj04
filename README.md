@@ -321,25 +321,25 @@ HelpDesk Flow Verse is a modern enterprise-grade Helpdesk Management System desi
 
 ### 🖥 Admin Dashboard
 
-<img src="YOUR_DASHBOARD_IMAGE_LINK" width="100%">
+<img src="https://github.com/piyushraj04/helpdesk-flow-verse/blob/main/assets/dashboard.png" width="100%">
 
 ---
 
 ### 📊 Analytics Dashboard
 
-<img src="YOUR_ANALYTICS_IMAGE_LINK" width="100%">
+<img src="https://github.com/piyushraj04/helpdesk-flow-verse/blob/main/assets/analytics.png" width="100%">
 
 ---
 
 ### 🎫 Ticket Management
 
-<img src="YOUR_TICKET_IMAGE_LINK" width="100%">
+<img src="https://github.com/piyushraj04/helpdesk-flow-verse/blob/main/assets/tickets.png" width="100%">
 
 ---
 
 ### 🤖 AI Assistant
 
-<img src="YOUR_AI_IMAGE_LINK" width="100%">
+<img src="https://github.com/piyushraj04/helpdesk-flow-verse/blob/main/assets/ai-assistant.png" width="100%">
 
 ---
 
