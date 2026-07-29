@@ -808,7 +808,15 @@ I'm currently looking for opportunities as a:
 - 💼 Java Full Stack Developer
 - 💼 Spring Boot Developer
 - 💼 Software Engineer
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushraj04/piyushraj04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
 If my profile matches your requirements, feel free to reach out!
 
 📧 **Email:** piyush004.raj@gmail.com
