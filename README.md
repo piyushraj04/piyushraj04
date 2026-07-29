@@ -1,150 +1,826 @@
-<h1 align="center">Hi there, I'm Piyush Raj 👋</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot • React • REST APIs</h3>
+<!-- ========================================================= -->
+<!--                  PIYUSH RAJ GITHUB PROFILE                 -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+Hi 👋, I'm Piyush Raj
+</h1>
+
+<h3 align="center">
+Java Full Stack Developer • Spring Boot Developer • Backend Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;React.js+%7C+REST+APIs;Building+Scalable%2C+Secure+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;REST+API+Developer;React+Frontend+Developer;Spring+Security+Enthusiast;Building+Scalable+Backend+Applications;100%2B+DSA+Problems+Solved;Open+to+Full+Stack+Developer+Opportunities" />
 </p>
 
 <p align="center">
-  <a href="mailto:piyush004.raj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/piyush004-raj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="tel:+917979919112">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=piyushraj04&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/piyushraj04?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/piyushraj04?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🚀 About Me
+<p align="center">
 
-- 🎓 B.Tech in Computer Science & Engineering, Arya College of Engineering — **GPA 9.05**
-- 💻 Currently interning as a **Software Development Intern** at JSpiders (Test Yantra Software Solutions Pvt. Ltd.)
-- 🔧 Focused on building scalable, secure full-stack applications with **Java, Spring Boot, Hibernate, and React**
-- 🗄️ Comfortable across relational databases — **MySQL, PostgreSQL, Oracle SQL**
-- 🧩 Solved **100+ Data Structures & Algorithms** problems
-- 📍 Based in Bengaluru, India
-- 🎯 Actively seeking **Java Backend / Full Stack Developer** roles
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring-Boot-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Developer-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-100%2B%20Problems-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
 
-**Languages**
+<a href="mailto:piyush004.raj@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/piyush004-raj/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/piyushraj04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://meek-narwhal-6f73b2.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
+</a>
+
+<a href="https://helpdesk-flow-verse.vercel.app">
+<img src="https://img.shields.io/badge/Live_Project-HelpDesk_Pro-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+```java
+public class PiyushRaj {
+
+    String role = "Java Full Stack Developer";
+
+    String location = "Bangalore, India";
+
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "Spring Data JPA",
+        "REST APIs"
+    };
+
+    String[] frontend = {
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+    };
+
+    String[] databases = {
+        "MySQL",
+        "PostgreSQL",
+        "Oracle SQL"
+    };
+
+    String[] currentlyLearning = {
+        "Microservices",
+        "Docker",
+        "Redis",
+        "Kafka",
+        "AWS",
+        "System Design"
+    };
+
+    String passion =
+        "Building scalable, secure and production-ready applications.";
+}
+```
+
+---
+
+# 💫 Professional Summary
+
+🚀 Java Full Stack Developer passionate about designing scalable backend systems using Java and the Spring ecosystem.
+
+💻 Experienced in building secure REST APIs with Spring Boot, Spring Security, Hibernate, Spring Data JPA, and MySQL/PostgreSQL.
+
+⚛️ Comfortable developing responsive React applications integrated with modern backend architectures.
+
+🧠 Strong foundation in Object-Oriented Programming, Data Structures & Algorithms, SQL, MVC Architecture, and Layered Architecture.
+
+🎯 Continuously learning industry technologies including Docker, Redis, Kafka, AWS, and Microservices.
+
+💼 Currently seeking Java Backend / Full Stack Developer opportunities.
+
+---
+
+# 🌱 Currently Learning
+
+- ✅ Spring Security (Advanced)
+- ✅ JWT Authentication
+- ✅ Docker
+- ✅ Redis
+- ✅ Kafka
+- ✅ Microservices
+- ✅ AWS Basics
+- ✅ System Design
+- ✅ Low Level Design
+
+---
+
+# 🛠 Tech Stack
+
+## 🚀 Languages
+
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-**Backend**
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## ⚙ Backend Development
 
-#### 🎫 [HelpDesk Flow](#) — Full-Stack Helpdesk Management System
-`Java` `Spring Boot` `MySQL` `React` `HTML/CSS/JS`
-- Built a full-stack ticketing system to manage, track, and resolve support requests efficiently
-- Designed RESTful APIs in Spring Boot, integrated seamlessly with a React frontend
-- Implemented **Role-Based Access Control (RBAC)** for users, agents, and admins
-- Modeled a MySQL schema supporting real-time ticket status updates
+<p>
 
-#### 🍔 Food Order Management System
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `REST API`
-- Built a full-stack system to manage customers, restaurants, menus, orders, and payments
-- Designed REST APIs with Spring Boot + Spring Data JPA, including full entity relationship mapping
-- Modeled `OneToMany`, `ManyToOne`, and `OneToOne` JPA relationships
-- Applied layered architecture with DTOs, validation, and centralized exception handling
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
-#### 📚 BookMart — Second-Hand Book Selling & Renting Platform
-`Core Java` `JDBC` `SQL` `OOP`
-- Built CRUD operations for users, books, orders, and rental records
-- Followed clean **DAO → Service → Model** layered architecture
-- Used `PreparedStatement` throughout for secure, optimized, injection-safe queries
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
 
-### 🎓 Education
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 
-| Degree | Institution | Score | Duration |
-|---|---|---|---|
-| B.Tech, Computer Science & Engineering | Arya College of Engineering | GPA 9.05 | Jun '23 – Jun '26 |
-| Diploma, Civil Engineering | Dr. C V Raman University | GPA 7.70 | Apr '20 – Jun '23 |
+<img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
 
-### 📜 Certifications
-- Java Full Stack Development — JSpiders
-- Summer Training in Web Development — Allsoft Solutions & Services (IBM Partner), Jul '24
-- Linux Training — Spoken Tutorial, Dec '24
+<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge"/>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushraj04&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushraj04&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushraj04&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushraj04&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🎨 Frontend
 
-<p align="center">
-  <a href="mailto:piyush004.raj@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/piyush004-raj/">LinkedIn</a> •
-  <a href="#">GitHub</a> •
-  <a href="#">Portfolio</a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
 </p>
 
-<p align="center"><i>"Committed to building secure, scalable, and maintainable backend systems using modern Java technologies."</i></p>
+---
+
+## 💾 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+
+</p>
+
+---
+
+## 📚 Core Concepts
+
+✔ Object-Oriented Programming
+
+✔ Data Structures & Algorithms
+
+✔ MVC Architecture
+
+✔ Layered Architecture
+
+✔ Authentication & Authorization
+
+✔ Exception Handling
+
+✔ Collections Framework
+
+✔ Multithreading
+
+✔ Software Development Life Cycle
+
+✔ Clean Code Principles
+
+✔ Design Patterns (Learning)
+
+---
+
+# 🎯 Career Objective
+
+> Passionate about building scalable backend applications using Java and Spring Boot while continuously improving problem-solving skills and software engineering practices. Looking for opportunities where I can contribute, learn, and grow as a Full Stack Developer.
+# 🚀 Featured Projects
+
+---
+
+# 🏢 HelpDesk Flow Verse
+
+### Enterprise AI-Powered Helpdesk Management System
+
+<p align="center">
+
+<a href="https://helpdesk-flow-verse.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/piyushraj04/helpdesk-flow-verse">
+<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+### 📌 Overview
+
+HelpDesk Flow Verse is a modern enterprise-grade Helpdesk Management System designed to streamline ticket creation, assignment, tracking, and resolution within organizations. The application implements secure role-based authentication, intelligent ticket workflows, analytics dashboards, and an AI-powered knowledge assistant.
+
+---
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,hibernate,git"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JPA-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ✨ Key Features
+
+✅ Secure Login & Registration
+
+✅ Role-Based Authentication (Admin, Agent, Employee)
+
+✅ JWT & Spring Security
+
+✅ Ticket Lifecycle Management
+
+✅ Department & Queue Management
+
+✅ Knowledge Base Module
+
+✅ AI Assistant Integration
+
+✅ Analytics Dashboard
+
+✅ Ticket Reports
+
+✅ Responsive React UI
+
+✅ Global Exception Handling
+
+✅ Layered Architecture
+
+✅ DTO Implementation
+
+✅ RESTful APIs
+
+---
+
+## 📸 Project Preview
+
+### 🖥 Admin Dashboard
+
+<img src="YOUR_DASHBOARD_IMAGE_LINK" width="100%">
+
+---
+
+### 📊 Analytics Dashboard
+
+<img src="YOUR_ANALYTICS_IMAGE_LINK" width="100%">
+
+---
+
+### 🎫 Ticket Management
+
+<img src="YOUR_TICKET_IMAGE_LINK" width="100%">
+
+---
+
+### 🤖 AI Assistant
+
+<img src="YOUR_AI_IMAGE_LINK" width="100%">
+
+---
+
+### 📈 Highlights
+
+| Feature | Status |
+|---------|--------|
+| Authentication | ✅ |
+| Authorization | ✅ |
+| CRUD Operations | ✅ |
+| Dashboard | ✅ |
+| Reports | ✅ |
+| Search | ✅ |
+| REST APIs | ✅ |
+| React Integration | ✅ |
+| Exception Handling | ✅ |
+| Responsive Design | ✅ |
+
+---
+
+# 🍔 Food Order Management System
+
+### Production-Ready Food Ordering Backend
+
+<p align="center">
+
+<a href="https://github.com/piyushraj04/food-order-management">
+
+<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge"/>
+
+</a>
+
+<img src="https://img.shields.io/badge/🚧_Live_Demo-Coming_Soon-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📌 Overview
+
+A scalable Food Order Management System developed using Spring Boot and PostgreSQL that manages customers, restaurants, menus, orders, and payments while following enterprise backend development practices.
+
+---
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql"/>
+
+<img src="https://img.shields.io/badge/Hibernate-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JPA-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ✨ Features
+
+🍽 Restaurant Management
+
+👤 Customer Module
+
+📦 Order Processing
+
+💳 Payment Module
+
+📍 Address Management
+
+📋 Menu Management
+
+📂 DTO Pattern
+
+📊 Layered Architecture
+
+🔄 CRUD Operations
+
+✔ Validation
+
+⚠ Exception Handling
+
+🔗 Entity Relationships
+
+---
+
+### 📈 Highlights
+
+✔ Spring Boot
+
+✔ Hibernate
+
+✔ PostgreSQL
+
+✔ Spring Data JPA
+
+✔ REST APIs
+
+✔ DTO
+
+✔ OneToMany Mapping
+
+✔ ManyToOne Mapping
+
+✔ OneToOne Mapping
+
+✔ Production Ready Backend
+
+---
+
+# 📚 SecondShelf
+
+### Second-Hand Book Selling & Renting Platform
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🚧_Currently_In_Development-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📌 Vision
+
+SecondShelf is my flagship full-stack project aimed at creating a modern platform for buying, selling, renting, and donating books. The project focuses on scalable architecture, clean code practices, and real-world software engineering principles.
+
+---
+
+### 🛠 Planned Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,redis,kafka"/>
+
+</p>
+
+---
+
+### 🚀 Planned Features
+
+📚 Book Marketplace
+
+📖 Book Rental
+
+❤️ Wishlist
+
+🛒 Shopping Cart
+
+💳 Payment Gateway
+
+📍 Order Tracking
+
+🔐 JWT Authentication
+
+👤 Role-Based Access
+
+⭐ Ratings & Reviews
+
+💬 Chat System
+
+🔍 Advanced Search
+
+☁ Cloud Storage
+
+📈 Admin Dashboard
+
+📦 Inventory Management
+
+📊 Sales Analytics
+
+📱 Fully Responsive
+
+---
+
+## 🗺 Development Roadmap
+
+```text
+Core Backend          ✅
+Authentication        ✅
+Book Module           🔄
+React Frontend        🔄
+Payment Integration   ⏳
+Docker                ⏳
+Redis                 ⏳
+Kafka                 ⏳
+AWS Deployment        ⏳
+Microservices         ⏳
+```
+
+---
+
+# 💼 Professional Experience
+
+## Software Development Intern
+
+### JSpiders (Test Yantra Software Solutions Pvt. Ltd.)
+
+**May 2025 – Present**
+
+### Responsibilities
+
+✔ Java Full Stack Development
+
+✔ Spring Boot Development
+
+✔ REST API Development
+
+✔ SQL & Database Design
+
+✔ React Development
+
+✔ Object-Oriented Programming
+
+✔ Debugging & Testing
+
+✔ SDLC
+
+✔ Git Version Control
+
+✔ Industry-Level Coding Practices
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Technology
+
+**Computer Science & Engineering**
+
+📍 Arya College of Engineering
+
+⭐ CGPA: **9.05**
+
+---
+
+### Diploma in Civil Engineering
+
+CGPA **7.70**
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushraj04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushraj04&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushraj04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushraj04&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=piyushraj04&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ Development Journey
+
+```text
+Core Java                 ████████████████████ 100%
+
+Advanced Java             █████████████████░░ 90%
+
+Spring Boot               █████████████████░░ 90%
+
+Spring Security           ███████████████░░░░ 80%
+
+Hibernate/JPA             ████████████████░░░ 85%
+
+REST APIs                 ██████████████████░ 95%
+
+SQL                       █████████████████░░ 90%
+
+React                     ███████████████░░░░ 80%
+
+JavaScript                ███████████████░░░░ 80%
+
+DSA                       ██████████████░░░░░ 75%
+
+Docker                    ███████░░░░░░░░░░░░ 35%
+
+Redis                     ██████░░░░░░░░░░░░░ 30%
+
+Kafka                     █████░░░░░░░░░░░░░░ 25%
+
+Microservices             ████░░░░░░░░░░░░░░░ 20%
+
+AWS                       ███░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack a Java Full Stack Developer Role
+
+✅ Master Spring Boot Ecosystem
+
+✅ Learn Microservices
+
+✅ Learn Docker & Kubernetes
+
+✅ Learn Redis & Kafka
+
+✅ Build Production Ready Projects
+
+✅ Contribute to Open Source
+
+✅ Solve 500+ DSA Problems
+
+✅ Master System Design
+
+---
+
+# 🧠 Problem Solving
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<h2>100+</h2>
+
+Problems Solved
+
+</td>
+
+<td align="center">
+
+<h2>Java</h2>
+
+Primary Language
+
+</td>
+
+<td align="center">
+
+<h2>REST</h2>
+
+API Development
+
+</td>
+
+<td align="center">
+
+<h2>Spring</h2>
+
+Backend Development
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🖥 Development Environment
+
+| IDE | IntelliJ IDEA |
+|------|---------------|
+| Backend | Java + Spring Boot |
+| Frontend | React |
+| Database | PostgreSQL / MySQL |
+| API Testing | Postman |
+| Build Tool | Maven |
+| Version Control | Git |
+| Deployment | Vercel |
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/piyushraj04">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://takeuforward.org/plus/home">
+
+<img src="https://img.shields.io/badge/TakeUForward-DSA-blue?style=for-the-badge"/>
+
+</a>
+
+<a href="https://www.hackerrank.com">
+
+<img src="https://img.shields.io/badge/HackerRank-Java-success?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:piyush004.raj@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/piyush004-raj/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/piyushraj04">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://meek-narwhal-6f73b2.netlify.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> "Great software isn't just about writing code—it's about solving real problems with clean architecture, scalable design, and continuous learning."
+
+---
+
+# 📫 Open for Opportunities
+
+I'm currently looking for opportunities as a:
+
+- 💼 Java Backend Developer
+- 💼 Java Full Stack Developer
+- 💼 Spring Boot Developer
+- 💼 Software Engineer
+
+If my profile matches your requirements, feel free to reach out!
+
+📧 **Email:** piyush004.raj@gmail.com
+
+📍 **Location:** Bangalore, India
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6A5ACD&height=120&section=footer"/>
+
+</div>
