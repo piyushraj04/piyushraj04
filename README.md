@@ -7,7 +7,7 @@ Hi 👋, I'm Piyush Raj
 </h1>
 
 <h3 align="center">
-Java Full Stack Developer • Spring Boot Developer • Backend Engineer
+Java Full Stack Developer • Java Backend Developer • Spring Boot Developer
 </h3>
 
 <p align="center">
@@ -452,82 +452,32 @@ A scalable Food Order Management System developed using Spring Boot and PostgreS
 
 # 📚 SecondShelf
 
-### Second-Hand Book Selling & Renting Platform
+### Second-Hand Book Marketplace
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🚧_Currently_In_Development-orange?style=for-the-badge"/>
-
+<a href="https://github.com/piyushraj04/SecondShelf">
+<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge"/>
+</a>
 </p>
 
----
+SecondShelf is my current flagship full-stack project for buying, selling, and renting second-hand books. The backend is being developed with Java 21, Spring Boot, Spring Data JPA/Hibernate and PostgreSQL, with a React frontend.
 
-### 📌 Vision
+### Current Development Status
 
-SecondShelf is my flagship full-stack project aimed at creating a modern platform for buying, selling, renting, and donating books. The project focuses on scalable architecture, clean code practices, and real-world software engineering principles.
+- ✅ User Registration
+- ✅ JPA Auditing / BaseEntity
+- ✅ Address Management
+- ✅ Book CRUD
+- ✅ DTO Mapping
+- ✅ Validation
+- ✅ Global Exception Handling
+- ✅ PostgreSQL Configuration
+- ✅ H2 Test Profile
+- 🔄 Book Listing Module
+- 🔄 Spring Security / JWT
+- 🔄 React Frontend
 
----
-
-### 🛠 Planned Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,redis,kafka"/>
-
-</p>
-
----
-
-### 🚀 Planned Features
-
-📚 Book Marketplace
-
-📖 Book Rental
-
-❤️ Wishlist
-
-🛒 Shopping Cart
-
-💳 Payment Gateway
-
-📍 Order Tracking
-
-🔐 JWT Authentication
-
-👤 Role-Based Access
-
-⭐ Ratings & Reviews
-
-💬 Chat System
-
-🔍 Advanced Search
-
-☁ Cloud Storage
-
-📈 Admin Dashboard
-
-📦 Inventory Management
-
-📊 Sales Analytics
-
-📱 Fully Responsive
-
----
-
-## 🗺 Development Roadmap
-
-```text
-Core Backend          ✅
-Authentication        ✅
-Book Module           🔄
-React Frontend        🔄
-Payment Integration   ⏳
-Docker                ⏳
-Redis                 ⏳
-Kafka                 ⏳
-AWS Deployment        ⏳
-Microservices         ⏳
-```
+The project is being developed incrementally using layered architecture and real-world marketplace business rules.
 
 ---
 
@@ -571,7 +521,7 @@ Microservices         ⏳
 
 📍 Arya College of Engineering
 
-⭐ CGPA: **9.05**
+⭐ CGPA: **8.11**
 
 ---
 
